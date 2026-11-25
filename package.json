@@ -1,0 +1,1 @@
+{"description":"One office joke under 200 characters, written to make the AI judge laugh — a make.fun entry.","license":"MIT","main":"main.ts","name":"makefun-judge-laugh-rama","scripts":{"start":"node main.ts","test":"node --test test.mjs"},"type":"module","version":"1.0.0"}
